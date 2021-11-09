@@ -1,5 +1,5 @@
 ### 👋 Welcome!
-I am currently a PhD candidate in the ECE department at the University of Michigan, Ann Arbor. \
+I am currently working as AI/ML Research Scientist at Intel Labs in Santa Clara, CA. \
 My research interests lie in computer vision and its applications to ⚡video⚡ understanding.
 
 <!--
